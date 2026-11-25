@@ -1,0 +1,44 @@
+REPORTE DE CALIDAD DE DATOS - TITANIC
+Alumno: Hinojos Adrian
+Numero de control: 1344
+Numero de lista: 28
+
+Filas originales: 891
+Columnas originales: 15
+Duplicados encontrados: 107
+Errores de tipo en edad: 0
+Valores atipicos en edad: 11
+
+DATOS NULOS ORIGINALES:
+survived         0
+pclass           0
+sex              0
+age            177
+sibsp            0
+parch            0
+fare             0
+embarked         2
+class            0
+who              0
+adult_male       0
+deck           688
+embark_town      2
+alive            0
+alone            0
+
+DATOS NULOS DESPUES DE LA LIMPIEZA:
+survived         0
+pclass           0
+sex              0
+age              0
+sibsp            0
+parch            0
+fare             0
+embarked         2
+class            0
+who              0
+adult_male       0
+deck           582
+embark_town      0
+alive            0
+alone            0
